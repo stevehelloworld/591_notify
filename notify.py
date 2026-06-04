@@ -257,6 +257,8 @@ _LVR_MAPPING = {
     "s": "area",
     "t": "transaction_object",
     "note": "note",
+    "cp": "carpark_price",
+    "g": "carpark_count",
     "rperiod": "rental_period",
     "rtype": "rental_type",
     "rserviec": "rental_service",
@@ -381,6 +383,17 @@ def convert_lvr_sale_to_unified(item: dict, hash_id: str, tw_now_str: str) -> di
         
     notes_list = []
     notes_list.append(f"交易標的: {item.get('transaction_object', '')}")
+    
+    # 車位資訊
+    has_carpark = "有車位" if "車位" in item.get("transaction_object", "") else "無車位"
+    notes_list.append(has_carpark)
+    cp_price = item.get("carpark_price", "")
+    if cp_price and cp_price != "-":
+        notes_list.append(f"車位總價: {cp_price} 萬")
+    cp_count = item.get("carpark_count", "")
+    if cp_count and cp_count != "0":
+        notes_list.append(f"車位數量: {cp_count}")
+
     if item.get("main_building_ratio"):
         notes_list.append(f"主建物比: {item.get('main_building_ratio')}")
     if item.get("has_management"):

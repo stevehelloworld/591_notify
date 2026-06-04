@@ -901,7 +901,7 @@
       // Tag Bubbles HTML
       let tagsHtml = "";
       if (item.notes) {
-        const tagList = item.notes.split(" | ").slice(0, 3); // Max 3 tags
+        const tagList = item.notes.split(" | ").slice(0, 10); // Max 10 tags
         tagsHtml = `<div class="tags-area">` + tagList.map(t => `<span class="tag-bubble">${t}</span>`).join("") + `</div>`;
       }
 
