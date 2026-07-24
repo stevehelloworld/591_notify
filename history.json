@@ -38760,5 +38760,35 @@
     ],
     "notes": "聯絡人: 李麗紅 | 含車位 | 有陽台 | 有格局圖",
     "detected_at": "2026-07-24 13:34"
+  },
+  {
+    "id": "591_sale_24696569",
+    "source": "591",
+    "type": "sale",
+    "title": "方正格局三房✨青喆SOHO✨靜巷生活好放鬆🐉",
+    "price": "2,588 萬",
+    "price_value": 25880000,
+    "unit_price": "60.1萬/坪",
+    "layout": "3房2廳",
+    "area": "43.05",
+    "floor": "3F/14F",
+    "address": "中和區-青喆SOHO",
+    "link": "https://sale.591.com.tw/home/house/detail/2/24696569.html",
+    "photos": [
+      "https://img1.591.com.tw/house/2026/06/01/178028820041274301.jpg!400x300.jpg",
+      "https://img2.591.com.tw/house/2026/06/01/178028820010424302.jpg!400x300.jpg",
+      "https://img1.591.com.tw/house/2026/06/01/178028819979187203.jpg!400x300.jpg",
+      "https://img1.591.com.tw/house/2026/06/01/178028820013684703.jpg!400x300.jpg",
+      "https://img2.591.com.tw/house/2026/06/01/178028820009233703.jpg!400x300.jpg",
+      "https://img2.591.com.tw/house/2026/06/01/178028820010646204.jpg!400x300.jpg",
+      "https://img2.591.com.tw/house/2026/06/01/178028820008011001.jpg!400x300.jpg",
+      "https://img2.591.com.tw/house/2026/06/01/178028820038685002.jpg!400x300.jpg",
+      "https://img1.591.com.tw/house/2026/06/01/178028820013945605.jpg!400x300.jpg",
+      "https://img2.591.com.tw/house/2026/06/01/178028820041277400.jpg!400x300.jpg",
+      "https://img1.591.com.tw/house/2026/06/01/178028820036596303.jpg!400x300.jpg",
+      "https://img1.591.com.tw/house/2026/06/01/178028830245244405.jpg!400x300.jpg"
+    ],
+    "notes": "聯絡人: 郭辰隴 | 有陽台 | 有格局圖",
+    "detected_at": "2026-07-24 16:22"
   }
 ]
