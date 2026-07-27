@@ -42924,5 +42924,34 @@
     "photos": [],
     "notes": "租賃類型: 整戶出租 | 租期: 1150305~1160304 | 服務: 社會住宅包租轉租 | 傢俱: 冷氣、熱水器、洗衣機、冰箱、瓦斯或天然氣 | 備註: 多人共同承租2;",
     "detected_at": "2026-07-26 23:59"
+  },
+  {
+    "id": "591_sale_24742081",
+    "source": "591",
+    "type": "sale",
+    "title": "青喆SOHO💎全新質感生活⭐靜巷中便利樞紐📞住商邱哲",
+    "price": "2,588 萬",
+    "price_value": 25880000,
+    "unit_price": "78.6萬/坪",
+    "layout": "3房2廳",
+    "area": "32.94",
+    "floor": "3F/14F",
+    "address": "中和區-青喆SOHO",
+    "link": "https://sale.591.com.tw/home/house/detail/2/24742081.html",
+    "photos": [
+      "https://img2.591.com.tw/house/2026/06/17/178168655417069908.jpg!400x300.jpg",
+      "https://img1.591.com.tw/house/2026/06/17/178168590098198208.jpg!400x300.jpg",
+      "https://img2.591.com.tw/house/2026/06/17/178168590056534102.jpg!400x300.jpg",
+      "https://img1.591.com.tw/house/2026/06/17/178168590062579608.jpg!400x300.jpg",
+      "https://img2.591.com.tw/house/2026/06/17/178168590064327105.jpg!400x300.jpg",
+      "https://img1.591.com.tw/house/2026/06/17/178168590083025903.jpg!400x300.jpg",
+      "https://img2.591.com.tw/house/2026/06/17/178168590068492500.jpg!400x300.jpg",
+      "https://img1.591.com.tw/house/2026/06/17/178168590115784804.jpg!400x300.jpg",
+      "https://img1.591.com.tw/house/2026/06/17/178168590104575504.jpg!400x300.jpg",
+      "https://img2.591.com.tw/house/2026/06/17/178168590058927706.jpg!400x300.jpg",
+      "https://img1.591.com.tw/house/2026/06/17/178168595629093003.jpg!400x300.jpg"
+    ],
+    "notes": "聯絡人: 邱哲銘 | 有陽台 | 有格局圖",
+    "detected_at": "2026-07-27 10:37"
   }
 ]
