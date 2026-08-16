@@ -80354,5 +80354,35 @@
     ],
     "notes": "聯絡人: 陳志旻 | 有陽台 | 有格局圖",
     "detected_at": "2026-08-16 19:43"
+  },
+  {
+    "id": "591_sale_24894191",
+    "source": "591",
+    "type": "sale",
+    "title": "✨南山中學全新電梯三房✨",
+    "price": "2,498 萬",
+    "price_value": 24980000,
+    "unit_price": "75.8萬/坪",
+    "layout": "3房2廳",
+    "area": "32.94",
+    "floor": "3F/14F",
+    "address": "中和區-青喆SOHO",
+    "link": "https://sale.591.com.tw/home/house/detail/2/24894191.html",
+    "photos": [
+      "https://img2.591.com.tw/house/2026/08/13/178661119987633003.jpg!400x300.jpg",
+      "https://img2.591.com.tw/house/2026/08/13/178661120049545906.jpg!400x300.jpg",
+      "https://img1.591.com.tw/house/2026/08/13/178661120139948706.jpg!400x300.jpg",
+      "https://img1.591.com.tw/house/2026/08/13/178661120165482000.jpg!400x300.jpg",
+      "https://img1.591.com.tw/house/2026/08/13/178661120089952700.jpg!400x300.jpg",
+      "https://img2.591.com.tw/house/2026/08/13/178661120263085304.jpg!400x300.jpg",
+      "https://img1.591.com.tw/house/2026/08/13/178661120181543708.jpg!400x300.jpg",
+      "https://img1.591.com.tw/house/2026/08/13/178661120309916608.jpg!400x300.jpg",
+      "https://img1.591.com.tw/house/2026/08/13/178661120206698608.jpg!400x300.jpg",
+      "https://img1.591.com.tw/house/2026/08/13/178661120067602603.jpg!400x300.jpg",
+      "https://img1.591.com.tw/house/2026/08/13/178661120284164206.jpg!400x300.jpg",
+      "https://img2.591.com.tw/house/2026/08/13/178661122657982506.jpg!400x300.jpg"
+    ],
+    "notes": "聯絡人: 陳寶如 | 有陽台 | 有格局圖",
+    "detected_at": "2026-08-16 20:32"
   }
 ]
