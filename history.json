@@ -156312,5 +156312,35 @@
     ],
     "notes": "降價! 原價 2588萬 → 降 3.5% | 聯絡人: 曾于菖 | 有陽台 | 有格局圖",
     "detected_at": "2026-09-27 11:32"
+  },
+  {
+    "id": "591_sale_25165917",
+    "source": "591",
+    "type": "sale",
+    "title": "【樸和】青喆SOHO🍎南山中學🍎新電梯三房",
+    "price": "2,498 萬",
+    "price_value": 24980000,
+    "unit_price": "75.8萬/坪",
+    "layout": "3房2廳",
+    "area": "32.94",
+    "floor": "3F/14F",
+    "address": "中和區-青喆SOHO",
+    "link": "https://sale.591.com.tw/home/house/detail/2/25165917.html",
+    "photos": [
+      "https://img2.591.com.tw/house/2026/09/22/179006833110794903.jpeg!400x300.jpeg",
+      "https://img2.591.com.tw/house/2026/09/22/179006833028297008.jpeg!400x300.jpeg",
+      "https://img2.591.com.tw/house/2026/09/22/179006833030114004.jpeg!400x300.jpeg",
+      "https://img1.591.com.tw/house/2026/09/22/179006833057601301.jpeg!400x300.jpeg",
+      "https://img1.591.com.tw/house/2026/09/22/179006833061405908.jpeg!400x300.jpeg",
+      "https://img1.591.com.tw/house/2026/09/22/179006833069662806.jpeg!400x300.jpeg",
+      "https://img2.591.com.tw/house/2026/09/22/179006833069300503.jpeg!400x300.jpeg",
+      "https://img1.591.com.tw/house/2026/09/22/179006833073205908.jpeg!400x300.jpeg",
+      "https://img2.591.com.tw/house/2026/09/22/179006833095257406.jpeg!400x300.jpeg",
+      "https://img1.591.com.tw/house/2026/09/22/179006833100832807.jpeg!400x300.jpeg",
+      "https://img2.591.com.tw/house/2026/09/22/179006833091271309.jpeg!400x300.jpeg",
+      "https://img2.591.com.tw/house/2026/09/22/179006833125316305.jpeg!400x300.jpeg"
+    ],
+    "notes": "聯絡人: 陳柏宇",
+    "detected_at": "2026-09-27 17:47"
   }
 ]
