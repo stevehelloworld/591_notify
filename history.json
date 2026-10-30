@@ -160898,5 +160898,39 @@
     ],
     "notes": "聯絡人: 許碩驛 | 有陽台 | 有格局圖",
     "detected_at": "2026-10-30 01:29"
+  },
+  {
+    "id": "591_sale_25378928",
+    "source": "591",
+    "type": "sale",
+    "title": "青喆SOHO｜全新電梯三房｜超值低樓層有採光！",
+    "price": "2,498 萬",
+    "price_value": 24980000,
+    "unit_price": "75.8萬/坪",
+    "layout": "3房2廳",
+    "area": "32.94",
+    "floor": "3F/14F",
+    "address": "中和區-青喆SOHO",
+    "link": "https://sale.591.com.tw/home/house/detail/2/25378928.html",
+    "photos": [
+      "https://img2.591.com.tw/house/2026/10/13/179185685419961305.jpg!400x300.jpg",
+      "https://img2.591.com.tw/house/2026/10/13/179185685418656408.jpg!400x300.jpg",
+      "https://img1.591.com.tw/house/2026/10/13/179185685414957505.jpg!400x300.jpg",
+      "https://img2.591.com.tw/house/2026/10/13/179185685420804306.jpg!400x300.jpg",
+      "https://img1.591.com.tw/house/2026/10/13/179185685423552602.jpg!400x300.jpg",
+      "https://img2.591.com.tw/house/2026/10/13/179185685430378909.jpg!400x300.jpg",
+      "https://img1.591.com.tw/house/2026/10/13/179185685444794801.jpg!400x300.jpg",
+      "https://img2.591.com.tw/house/2026/10/13/179185685447164903.jpg!400x300.jpg",
+      "https://img2.591.com.tw/house/2026/10/13/179185685448649008.jpg!400x300.jpg",
+      "https://img2.591.com.tw/house/2026/10/13/179185685450673300.jpg!400x300.jpg",
+      "https://img1.591.com.tw/house/2026/10/13/179185685476792104.jpg!400x300.jpg",
+      "https://img2.591.com.tw/house/2026/10/13/179185685455666907.jpg!400x300.jpg",
+      "https://img1.591.com.tw/house/2026/10/13/179185685476213600.jpg!400x300.jpg",
+      "https://img1.591.com.tw/house/2026/10/13/179185685479242706.jpg!400x300.jpg",
+      "https://img2.591.com.tw/house/2026/10/13/179185685476870709.jpg!400x300.jpg",
+      "https://img2.591.com.tw/house/2026/10/13/179185685958481608.jpg!400x300.jpg"
+    ],
+    "notes": "聯絡人: 陳奕志 | 有陽台 | 有格局圖",
+    "detected_at": "2026-10-30 12:15"
   }
 ]
